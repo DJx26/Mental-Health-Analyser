@@ -2,6 +2,9 @@
 
 A comprehensive AI-powered mental health chatbot specifically designed for India, providing real-time emotional analysis, crisis intervention, and location-based mental health resource referrals.
 
+<img width="1470" height="956" alt="Screenshot 2025-08-16 at 1 11 41 PM" src="https://github.com/user-attachments/assets/12eef5e5-7ffc-4378-946f-3e49f5db13f4" />
+
+
 ## 🌟 Features
 
 ### 🤖 **Intelligent Content Detection**
@@ -197,7 +200,7 @@ We welcome contributions! Please:
 
 For technical support or feature requests:
 - Create an issue on GitHub
-- Contact: [your-email@domain.com]
+- Contact: dakshpersonal11@gmail.com
 
 ## 📄 License
 
