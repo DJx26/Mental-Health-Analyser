@@ -20,6 +20,7 @@ def preprocess_text(text):
         return ""
     
     # Convert to lowercase
+    
     text = text.lower()
     
     # Remove special characters but keep important punctuation
