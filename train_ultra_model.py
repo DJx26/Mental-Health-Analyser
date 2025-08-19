@@ -14,6 +14,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 MODEL_PATH = "models/emotion_model.pkl"
+
 VEC_PATH = "models/tokenizer.pkl"
 
 def advanced_preprocess_text(text):
