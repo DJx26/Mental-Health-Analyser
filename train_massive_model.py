@@ -10,6 +10,7 @@ from sklearn.preprocessing import StandardScaler
 import pickle
 import re
 
+
 DATA_PATH = "data/merged_dataset.csv"
 MODEL_PATH = "models/emotion_model.pkl"
 VEC_PATH = "models/tokenizer.pkl"
