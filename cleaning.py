@@ -15,6 +15,7 @@ def clean_text(text: str) -> str:
 
 def main():
     # Expect CSVs with at least columns: text, emotion/label
+    
     go = pd.read_csv(GO_PATH)
     rd = pd.read_csv(REDDIT_PATH)
 
