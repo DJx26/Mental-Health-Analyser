@@ -12,6 +12,7 @@ test_messages = [
     "I'm so frustrated with my job"
 ]
 
+
 print("Testing current model predictions:\n")
 for i, message in enumerate(test_messages, 1):
     condition, confidence = predict_condition(message)
