@@ -13,6 +13,7 @@ import re
 import warnings
 warnings.filterwarnings('ignore')
 
+
 MODEL_PATH = "models/emotion_model.pkl"
 
 VEC_PATH = "models/tokenizer.pkl"
