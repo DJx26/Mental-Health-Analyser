@@ -6,6 +6,7 @@ DISCLAIMER = (
     "please reach out to a trusted person or local helpline immediately."
 )
 
+
 # India-focused mental health resources by state
 INDIAN_MENTAL_HEALTH_RESOURCES = {
     "maharashtra": {
