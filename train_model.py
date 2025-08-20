@@ -5,6 +5,7 @@ from sklearn.metrics import classification_report
 from sklearn.feature_extraction.text import TfidfVectorizer
 import pickle
 
+
 DATA_PATH = "data/merged_dataset.csv"
 MODEL_PATH = "models/emotion_model.pkl"
 VEC_PATH = "models/tokenizer.pkl"
