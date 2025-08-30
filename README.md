@@ -36,6 +36,7 @@ A comprehensive AI-powered mental health chatbot specifically designed for India
 ### Prerequisites
 - Python 3.8+
 - pip package manager
+- 
 
 ### Installation
 
